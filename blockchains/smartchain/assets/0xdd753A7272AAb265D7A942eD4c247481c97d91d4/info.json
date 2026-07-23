@@ -12,6 +12,10 @@
     {
       "name": "telegram",
       "url": "https://t.me/drivecrypto_oficial"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://web3wallet.com.br/whitepapper"
     }
   ],
   "tags": ["defi"]
